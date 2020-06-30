@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Dual-Departure",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "export.data.unityweb",
 "wasmCodeUrl": "export.wasm.code.unityweb",
 "wasmFrameworkUrl": "export.wasm.framework.unityweb",
