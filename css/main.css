@@ -151,7 +151,7 @@ background-attachment:fixed;
 margin-top:0px;
 border-bottom: 3px solid #428ca1;
 }
-.jumbotron h1,h2{
+.jumbotron h1,h2,p{
 	text-align:center;
 }
 ical-align:top
